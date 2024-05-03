@@ -3,13 +3,15 @@ Description
 This Java application provides a simple login system with a graphical user interface (GUI). Users can input their username and password to access the system.
 
 Features
-User-friendly GUI for login
-Secure password handling using encryption
-Simple and intuitive interface
-Error handling for incorrect login attempts
+-User-friendly GUI for login
+-Secure password handling using encryption
+-Simple and intuitive interface
+-Error handling for incorrect login attempts
+
 Requirements
 Java Development Kit (JDK) version 8 or higher
 Swing GUI library (included in standard JDK)
+
 How to Run
 Clone this repository to your local machine.
 bash
@@ -25,6 +27,7 @@ javac *.java
 Run the application.
 Copy code
 java LoginApp
+
 Usage
 When the application starts, you will see a login form with fields for username and password.
 Enter your username and password.
